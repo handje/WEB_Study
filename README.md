@@ -11,3 +11,7 @@
 ![image](https://user-images.githubusercontent.com/57988006/150728728-010b894a-bd36-4473-9020-bd05f2ffead8.png)
 ![image](https://user-images.githubusercontent.com/57988006/150728756-20207c5f-7e64-4a8a-bbc7-2204afac418b.png)
 
+#3. JS_1
+- 토글 버튼 추가
+![image](https://user-images.githubusercontent.com/57988006/151113920-bace1d73-af32-4633-921a-1c27a8b15776.png)
+![image](https://user-images.githubusercontent.com/57988006/151113928-4bb6b1f1-11f8-4871-bd86-a05bc09ddf64.png)
